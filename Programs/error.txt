@@ -1,0 +1,4 @@
+150,Ralph Kramder,qwe Points should be number OR Data Error
+550, Mary Worth, -2 Points can not be negative
+750, Candy Dawn, 1001 Points not in range
+970,Ming Darkfoot,1200 Points not in range

@@ -1,0 +1,16 @@
+101,John Hammer,808,B
+107,Linda Meyers,606,D
+201,Jerry Pitts,990,A
+250, Larry Fine, 780,C
+300,Johnny Five,959,A
+320,Darlene Junes,780,C
+360,Stormy Daniels,230,F
+450, Jane Fry, 0,F
+601, Anna Kellog, 570,F
+670, Bill Murry, 300,F
+760,Tracy Burns, 950,A
+800, Joel Matinez, 799,C
+850, Lucy Lee, 999,A
+890, Mai Ng, 899,B
+900, Mike Davis, 200,F
+950, Charle Potash, 888,B
